@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Franco Alejandro Acosta Algarañaz 👋  
+🎯 Backend Developer | Passionate about Hexagonal Architecture and Spring Boot  
 
-<!--
-**DrakoBito/DrakoBito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently working on: [SocialBotsLabs](https://github.com/DrakoBito)  
+🚀 Currently seeking opportunities as a Java Backend Developer.  
+📚 Systems Engineering Student | Improving my English (B2)🇬🇧  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- 🖥️ Java | Spring Boot | GraalVM | HTML | CSS | JavaScript | React
+- 🔌 REST APIs | Hexagonal Architecture | SOLID | Clean Code  
+- ☁️ Docker | Jira | Git  
+- 🛢️ MySQL | SQL Server | MongoDB  
+- 🏗️ Scrum | Agile  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects & Contributions  
+🔹 **SocialBotsLabs** – A SaaS platform for automated sales messages on WhatsApp and Messenger. Built using Spring Boot, Docker, and Hexagonal Architecture.  
+
+## 📫 Let's Connect 🫡!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://bo.linkedin.com/in/franco-alejandro-acosta-algara%C3%B1az-98b130346)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/DrakoBito)
+📧 Email: franco1137@gmail.com
