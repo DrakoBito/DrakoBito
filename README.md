@@ -17,5 +17,5 @@
 
 ## 📫 Let's Connect 🫡!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://bo.linkedin.com/in/franco-alejandro-acosta-algara%C3%B1az-98b130346)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/DrakoBito)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/DrakoBito)  
 📧 Email: franco1137@gmail.com
