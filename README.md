@@ -3,7 +3,7 @@
 
 💻 Currently working on: SocialBotsLabs 
 🚀 Currently seeking opportunities as a Java Backend Developer.  
-📚 Systems Engineering Student | Improving my English (B2) 🇬🇧  
+📚 Systems Engineering Student | Improving my English (B2)
 
 ## 🔧 Technologies & Tools  
 - 🖥️ Java | Spring Boot | GraalVM | HTML | CSS | JavaScript | React
