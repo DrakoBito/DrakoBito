@@ -1,7 +1,7 @@
 # Hi there! I'm Franco Alejandro Acosta Algarañaz 👋  
 🎯 Backend Developer | Passionate about Hexagonal Architecture and Spring Boot  
 
-💻 Currently working on: [SocialBotsLabs](https://github.com/DrakoBito)  
+💻 Currently working on: SocialBotsLabs 
 🚀 Currently seeking opportunities as a Java Backend Developer.  
 📚 Systems Engineering Student | Improving my English (B2)🇬🇧  
 
